@@ -24,9 +24,6 @@ export function SiteFooter() {
           <p>
             <strong>Email:</strong> <Link href="mailto:contacto@comercialblanca.cl" className="hover:underline">contacto@comercialblanca.cl</Link>
           </p>
-          <p>
-            <strong>Bodega:</strong> Calle Falsa 123, Viña del Mar
-          </p>
         </div>
         <div className="flex justify-center md:justify-end">
           <Link href="https://www.facebook.com/profile.php?id=100066492044314" className="text-primary-foreground/80 hover:text-white" target="_blank" rel="noopener noreferrer">
