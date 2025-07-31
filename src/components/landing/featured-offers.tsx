@@ -17,7 +17,7 @@ const offers = [
   {
     name: 'Papas Prefritas Congeladas FarmFrites',
     description: 'Bolsa 2.5 kg',
-    price: '$4.990 + IVA',
+    price: '$1.890 + IVA',
     image: 'https://placehold.co/400x400.png',
     aiHint: 'french fries',
   },
