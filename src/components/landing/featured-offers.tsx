@@ -11,7 +11,7 @@ const offers = [
     name: 'Aceite para Freír Natural Agro',
     description: 'Bidón 10 Lt',
     price: '$20.980 + IVA',
-    image: 'https://placehold.co/400x400.png',
+    image: 'https://firebasestorage.googleapis.com/v0/b/comercial-blanca-web.firebasestorage.app/o/Aceites%20para%20freir.jpg?alt=media&token=ee041271-9f2b-4ea2-9384-cfb69057710d',
     aiHint: 'oil bottle',
   },
   {
