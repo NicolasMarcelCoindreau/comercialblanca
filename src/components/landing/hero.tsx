@@ -29,7 +29,7 @@ export function Hero() {
                 VER OFERTAS DEL MES
               </Link>
             </Button>
-            <Button asChild size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-black">
+            <Button asChild size="lg" variant="outline" className="border-white text-black bg-white hover:bg-white/90">
               <Link href={WHATSAPP_LINK} target="_blank" rel="noopener noreferrer">
                 Contactar por WhatsApp
               </Link>
