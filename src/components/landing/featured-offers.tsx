@@ -32,7 +32,7 @@ const offers = [
     name: 'Aceite Vegetal',
     description: 'Botella 900ml',
     price: '$1.381 + IVA',
-    image: 'https://placehold.co/400x400.png',
+    image: 'https://firebasestorage.googleapis.com/v0/b/comercial-blanca-web.firebasestorage.app/o/Aceite%20vegetal%20(2).jpg?alt=media&token=c5b8c1b2-bbc6-4102-a629-20d6636b8aa2',
     aiHint: 'vegetable oil',
   },
 ];
