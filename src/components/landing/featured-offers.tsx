@@ -23,8 +23,8 @@ const offers = [
   },
   {
     name: 'Combo Salsas HORECA',
-    description: 'Ketchup + Mostaza Jano',
-    price: '$8.490 + IVA',
+    description: 'Aji Jano, Ketchup Jano y Mostaza Jano',
+    price: '$4.186 + IVA',
     image: 'https://firebasestorage.googleapis.com/v0/b/comercial-blanca-web.firebasestorage.app/o/Jano.jpg?alt=media&token=d79f05d1-c0ee-4b52-abc5-40ae41340cbb',
     aiHint: 'sauce bottles',
   },
