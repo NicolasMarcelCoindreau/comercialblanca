@@ -8,7 +8,7 @@ export function Hero() {
   return (
     <section className="relative h-[90vh] min-h-[600px] w-full flex items-center justify-center text-center text-white">
       <Image
-        src="https://placehold.co/1920x1080.png"
+        src="https://firebasestorage.googleapis.com/v0/b/comercial-blanca-web.firebasestorage.app/o/bodega.jpg?alt=media&token=0e2e742f-01bf-4f49-969d-5553dbd7891e"
         alt="Bodega de Comercial Blanca"
         data-ai-hint="warehouse"
         fill
