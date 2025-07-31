@@ -11,7 +11,7 @@ const audiences = [
   {
     title: 'Almacenes y Canal Tradicional',
     text: 'Un catálogo completo de abarrotes y productos de aseo con los precios y la rotación que tu negocio de barrio requiere para competir y ganar.',
-    image: 'https://placehold.co/600x400.png',
+    image: 'https://firebasestorage.googleapis.com/v0/b/comercial-blanca-web.firebasestorage.app/o/canal%20tradicional.jpg?alt=media&token=90c4085c-fc74-41a6-a1fa-3b8298f5167d',
     aiHint: 'local store',
     imagePosition: 'right',
   },
