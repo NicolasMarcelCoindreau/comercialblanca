@@ -4,7 +4,7 @@ const audiences = [
   {
     title: 'Restaurantes y Food Trucks',
     text: 'Proveemos los insumos de alto volumen y rendimiento que tu cocina necesita para no parar: aceites, congelados, salsas en formato HORECA y artículos de limpieza.',
-    image: 'https://placehold.co/600x400.png',
+    image: 'https://firebasestorage.googleapis.com/v0/b/comercial-blanca-web.firebasestorage.app/o/food%20truck.jpg?alt=media&token=5bcd3cf4-9ad7-4e17-b719-f4a7eb8b21d5',
     aiHint: 'food truck',
     imagePosition: 'left',
   },
