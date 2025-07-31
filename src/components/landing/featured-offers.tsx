@@ -25,7 +25,7 @@ const offers = [
     name: 'Combo Salsas HORECA',
     description: 'Ketchup + Mostaza Jano',
     price: '$8.490 + IVA',
-    image: 'https://placehold.co/400x400.png',
+    image: 'https://firebasestorage.googleapis.com/v0/b/comercial-blanca-web.firebasestorage.app/o/Jano.jpg?alt=media&token=d880d7f6-1d2f-453d-891a-026dd753ec74',
     aiHint: 'sauce bottles',
   },
   {
