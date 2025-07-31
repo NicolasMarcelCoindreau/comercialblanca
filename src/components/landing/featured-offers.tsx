@@ -28,6 +28,13 @@ const offers = [
     image: 'https://placehold.co/400x400.png',
     aiHint: 'sauce bottles',
   },
+  {
+    name: 'Aceite Vegetal',
+    description: 'Botella 900ml',
+    price: '$1.381 + IVA',
+    image: 'https://placehold.co/400x400.png',
+    aiHint: 'vegetable oil',
+  },
 ];
 
 export function FeaturedOffers() {
@@ -37,7 +44,7 @@ export function FeaturedOffers() {
         <h2 className="text-3xl md:text-4xl font-bold text-center uppercase mb-12 font-headline">
           OFERTAS QUE POTENCIAN TU NEGOCIO
         </h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {offers.map((offer) => (
             <Card key={offer.name} className="flex flex-col overflow-hidden shadow-lg hover:shadow-2xl transition-shadow duration-300">
               <CardContent className="p-0">
