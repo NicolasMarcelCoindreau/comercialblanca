@@ -29,7 +29,7 @@ export function SiteFooter() {
           </p>
         </div>
         <div className="flex justify-center md:justify-end">
-          <Link href="#" className="text-primary-foreground/80 hover:text-white" target="_blank" rel="noopener noreferrer">
+          <Link href="https://www.facebook.com/profile.php?id=100066492044314" className="text-primary-foreground/80 hover:text-white" target="_blank" rel="noopener noreferrer">
             <Facebook className="h-6 w-6" />
             <span className="sr-only">Facebook</span>
           </Link>
