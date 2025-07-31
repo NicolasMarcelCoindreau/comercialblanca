@@ -2,7 +2,7 @@ import { Button } from '@/components/ui/button';
 import { WhatsAppIcon } from '@/components/icons';
 import Link from 'next/link';
 
-const WHATSAPP_LINK = "https://wa.me/56900000000?text=Hola,%20me%20gustaría%20solicitar%20la%20lista%20de%20precios.";
+const WHATSAPP_LINK = "https://wa.me/56991770587?text=Hola,%20me%20gustaría%20solicitar%20la%20lista%20de%20precios.";
 
 export function FinalCta() {
   return (

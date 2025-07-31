@@ -2,7 +2,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { Facebook } from 'lucide-react';
 
-const WHATSAPP_LINK = "https://wa.me/56900000000";
+const WHATSAPP_LINK = "https://wa.me/56991770587";
 
 export function SiteFooter() {
   return (
@@ -19,7 +19,7 @@ export function SiteFooter() {
         </div>
         <div className="flex flex-col space-y-2 text-sm text-primary-foreground/80">
           <p>
-            <strong>WhatsApp:</strong> <Link href={WHATSAPP_LINK} className="hover:underline" target="_blank" rel="noopener noreferrer">+56 9 1234 5678</Link>
+            <strong>WhatsApp:</strong> <Link href={WHATSAPP_LINK} className="hover:underline" target="_blank" rel="noopener noreferrer">+56 9 9177 0587</Link>
           </p>
           <p>
             <strong>Email:</strong> <Link href="mailto:contacto@comercialblanca.cl" className="hover:underline">contacto@comercialblanca.cl</Link>

@@ -2,7 +2,7 @@ import Image from 'next/image';
 import { Button } from '@/components/ui/button';
 import Link from 'next/link';
 
-const WHATSAPP_LINK = "https://wa.me/56900000000";
+const WHATSAPP_LINK = "https://wa.me/56991770587";
 
 export function Hero() {
   return (

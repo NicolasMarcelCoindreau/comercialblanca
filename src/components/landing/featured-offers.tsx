@@ -4,7 +4,7 @@ import { Card, CardContent, CardDescription, CardFooter, CardTitle } from '@/com
 import { Button } from '@/components/ui/button';
 import { WhatsAppIcon } from '@/components/icons';
 
-const WHATSAPP_LINK = "https://wa.me/56900000000?text=Hola,%20me%20interesa%20un%20producto.";
+const WHATSAPP_LINK = "https://wa.me/56991770587?text=Hola,%20me%20interesa%20un%20producto.";
 
 const offers = [
   {

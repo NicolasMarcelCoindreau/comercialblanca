@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { WhatsAppIcon } from './icons';
 import { Button } from './ui/button';
 
-const WHATSAPP_LINK = "https://wa.me/56900000000?text=Hola,%20necesito%20ayuda.";
+const WHATSAPP_LINK = "https://wa.me/56991770587?text=Hola,%20necesito%20ayuda.";
 
 export function FloatingWhatsAppButton() {
   return (
